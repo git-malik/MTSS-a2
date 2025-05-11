@@ -6,13 +6,6 @@
 package it.unipd.mtss;
 
 /**
- * Hello world!
- *
+ * Class to print Roman numerals in ASCII art
  */
-public class App 
-{
-    public static void main( String[] args )
-    {
-        System.out.println( "Hello World!" );
-    }
-}
+public class RomanPrinter {}
